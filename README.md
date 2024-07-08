@@ -1,8 +1,15 @@
-[![MasterHead](https://pngtree.com/freebackground/programming-and-coding-banner-working_1862296.html?share=3)
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/children-coding-school-education-computer-programming-banner-poster-children-coding-school-education-computer-programming-271588958.jpg" alt="MasterHead" width="800" height="200">
+</p>
 <h1 align="center">Hi 👋, I'm VAIBHAV</h1>
 <h3 align="center">I am a tech enthusiast with a passion for coding and artificial intelligence. Proficient in Python and C++, I am currently diving deep into Data Structures and Algorithms (DSA) using C++. Let's connect and chat about the latest trends in AI and technology!</h3>
-<img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" alt="lets code...." width="500" height="300">
+<p align="center">
+  <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">
+</p>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZrcDA5b3BxN2szOXpsam9rNTFnM2o5OWVyaXNmM3c2NDJ0NDIzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" height="300">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav007-code&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav007-code" /> </p>
 
