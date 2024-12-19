@@ -1,64 +1,107 @@
+<!-- Header Section with 3D Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,108,144,216,288&height=300&section=header&text=Hi%20👋,%20I'm%20Vaibhav&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50"/>
+
+<!-- Introduction Section -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vaibhav%20Pathak&fontColor=ffffff&fontSize=70&fontAlignY=35" alt="Header" width="100%"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E1F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Crafting+Digital+Experiences+%F0%9F%8C%9F;Transforming+Ideas+into+Elegant+Solutions+%F0%9F%9A%80" />
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=38&color=00FF00&background=1e1e1e&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Vaibhav+Pathak.;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Futuristic+Web+Applications!" alt="Typing Animation" />
-</h1>
+<br/>
 
+<!-- Profile Views and Social Badges -->
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=flat-square&color=brightgreen" alt="Profile Views">
-</div>
-
-<div align="center" style="margin: 20px 0;">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" alt="Coder GIF" />
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Laptop GIF" />
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Tech GIF" />
-</div>
-
-<h2 align="center" style="color: #ffffff; background: linear-gradient(90deg, #34e89e, #0f3443); padding: 15px; border-radius: 10px; font-family: 'Roboto Slab', serif;">💡 About Me</h2>
-<p align="center" style="font-family: 'Lato', sans-serif; font-size: 18px; color: #444444; line-height: 1.6;">
-    Hi, I’m Vaibhav! A tech enthusiast and passionate Full-Stack Developer who loves creating intuitive and dynamic user experiences. I thrive on solving complex problems and continuously improving my skills in web development and beyond.
-</p>
-
-<h3 align="center" style="color: #ffffff; background: linear-gradient(90deg, #ff7eb3, #ff758c); padding: 15px; border-radius: 10px; font-family: 'Roboto Slab', serif;">🤝 Let's Connect</h3>
-<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=for-the-badge&color=0e75b6" alt="Profile Views" />
     <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:your.email@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://newport-85s5.onrender.com/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
 </div>
 
-<h2 align="center" style="color: #ffffff; background: linear-gradient(90deg, #7f00ff, #e100ff); padding: 15px; border-radius: 10px; font-family: 'Roboto Slab', serif;">🛠️ My Toolkit</h2>
+<!-- About Me Section -->
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <h2>
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+        <span>About Me</span>
+    </h2>
 </div>
 
-<h2 align="center" style="color: #ffffff; background: linear-gradient(90deg, #56ab2f, #a8e063); padding: 15px; border-radius: 10px; font-family: 'Roboto Slab', serif;">📊 GitHub Stats</h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👨‍💻 I'm passionate about:
+- 🔭 Building innovative **Web Development Projects**
+- 🌱 Exploring **AI & Advanced Web Technologies**
+- 🚀 Contributing to **Open Source**
+- 💡 Problem Solving & Creative Solutions
+- 📚 Continuous Learning & Growth
+
+<br/>
+
+<!-- Tech Stack Section -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=gruvbox" width="48%" />
-    <img src="https://streak-stats.demolab.com?user=Vaibhav007-code&theme=gruvbox&hide_border=true" width="48%" />
+    <h2>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+        <span>Tech Stack</span>
+    </h2>
 </div>
 
-<h2 align="center" style="color: #ffffff; background: linear-gradient(90deg, #6dd5ed, #2193b0); padding: 15px; border-radius: 10px; font-family: 'Roboto Slab', serif;">🌟 Featured Projects</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,mysql,mongodb,html,css,git,docker,aws&theme=dark" />
+</p>
+
+<!-- GitHub Stats Section -->
 <div align="center">
-    <a href="https://github.com/Vaibhav007-code/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=gruvbox" />
+    <h2>
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+        <span>GitHub Stats</span>
+    </h2>
+</div>
+
+<p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Featured Projects Section -->
+<div align="center">
+    <h2>
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">
+        <span>Featured Projects</span>
+    </h2>
+</div>
+
+<div align="center">
+    <a href="https://newport-85s5.onrender.com/">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=tokyonight&hide_border=true" />
     </a>
-    <a href="https://github.com/Vaibhav007-code/note-taking-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=gruvbox" />
+    <a href="https://github.com/Vaibhav007-code">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=tokyonight&hide_border=true" />
     </a>
 </div>
 
+<!-- Contribution Graph -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=200&section=footer" alt="Footer" width="100%"/>
+    <h2>
+        <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="35">
+        <span>Contributions</span>
+    </h2>
 </div>
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&theme=react-dark&hide_border=true&area=true)](https://github.com/Vaibhav007-code/github-readme-activity-graph)
+
+<!-- Dynamic Snake Animation -->
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+<!-- Footer Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,108,144,216,288&height=120&section=footer"/>
