@@ -1,31 +1,85 @@
-<p align="center">
-  <img src="https://thumbs.dreamstime.com/b/children-coding-school-education-computer-programming-banner-poster-children-coding-school-education-computer-programming-271588958.jpg" alt="MasterHead" width="800" height="200">
+<!-- Header Banner -->
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+
+<!-- Animated Text Introduction -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00ffff&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Vaibhav;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<!-- Profile Views Counter -->
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
-<h1 align="center">Hi 👋, I'm VAIBHAV</h1>
-<h3 align="center">I am a tech enthusiast with a passion for coding and artificial intelligence. Proficient in Python and C++, I am currently diving deep into Data Structures and Algorithms (DSA) using C++. Let's connect and chat about the latest trends in AI and technology!</h3>
-<p align="center">
-  <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">
-</p>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZrcDA5b3BxN2szOXpsam9rNTFnM2o5OWVyaXNmM3c2NDJ0NDIzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" height="300">
-</p>
+<!-- Animated Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav007-code&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav007-code" /> </p>
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav007-code" alt="vaibhav007-code" /></a> </p>
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **AI & Advanced Web Technologies**
+- 👯 I'm looking to collaborate on **Web Development Projects**
+- 💬 Ask me about **C++, Python, JavaScript, React**
+- 📫 Check out my portfolio: [My Portfolio](https://newport-85s5.onrender.com/)
 
-<h3 align="left">Connect with me:</h3>
+<!-- Snake Animation -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+## 🚀 Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/pathakvaibhav755/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pathakvaibhav755/" height="30" width="40" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav007-code&show_icons=true&locale=en&layout=compact" alt="vaibhav007-code" /></p>
+<p align="center">
+    <a href="https://github.com/Vaibhav007-code/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaibhav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav007-code&show_icons=true&locale=en" alt="vaibhav007-code" /></p>
+<div align="center">
+    <a href="https://github.com/Vaibhav007-code/github-readme-stats">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/Vaibhav007-code/github-readme-stats">
+        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav007-code&" alt="vaibhav007-code" /></p>
+## 🏆 Featured Projects
+
+<div align="center">
+    <a href="https://newport-85s5.onrender.com/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/Vaibhav007-code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+</div>
+
+## 📈 Contribution Graph
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&theme=tokyo-night)](https://github.com/Vaibhav007-code/github-readme-activity-graph)
+
+## 🤝 Connect with me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="https://newport-85s5.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
