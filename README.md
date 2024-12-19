@@ -1,129 +1,140 @@
-<!-- Animated Cyberpunk-style Header -->
+<!-- Stunning 3D Header Animation -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&customColorList=24,12,20,18,24&text=Welcome%20to%20my%20Digital%20Realm&fontSize=45&fontColor=00ffff&animation=fadeIn&stroke=0efff9&strokeWidth=3&desc=Where%20Code%20Meets%20Creativity&descSize=25&descAlignY=75" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:84F4FF,100:F554F7&height=300&section=header&text=Vaibhav%20Pathak&fontSize=90&animation=fadeIn&fontAlignment=35&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignment=50&descAlignY=60&stroke=00E6FE&strokeWidth=2">
 </div>
 
-<!-- Holographic Name Display -->
+<!-- Dynamic Title Animation -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=40&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=600&height=80&lines=System.out.print(%22Hello%20World%22);console.log(%22I'm+Vaibhav%22);print(%22Full+Stack+Developer%22)&color=00ffff&background=0D1117" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E6FE&center=true&vCenter=true&multiline=true&random=false&width=745&height=120&lines=print(%22Building+Digital+Dreams%22);echo+%22Transforming+Ideas+into+Reality%22;System.out.println(%22One+Line+of+Code+at+a+Time%22)" alt="Typing SVG" />
     </a>
 </div>
 
-<!-- Animated Binary Rain Effect -->
+<!-- Animated Space Separator -->
 <div align="center">
-    <img width="100%" height="100" src="https://i.imgur.com/dBaSKWF.gif" />
+    <img height="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 </div>
 
-<!-- 3D Animated Avatar -->
+<!-- Modern Profile Views Counter -->
 <div align="center">
-    <a href="https://newport-85s5.onrender.com/">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=for-the-badge&color=0BE7F5&label=PROFILE+VISITS" alt="Profile Views">
 </div>
 
-<!-- Neon Social Links -->
+<!-- Neon Social Links with Hover Effects -->
 <div align="center">
-    <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%2300C4FF?style=for-the-badge&logo=linkedin&logoColor=white&color=00171f"/>
     </a>
-    <a href="https://newport-85s5.onrender.com/">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&color=071A2C" alt="Portfolio" />
+    <a href="https://newport-85s5.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Portfolio-%2300C4FF?style=for-the-badge&logo=googlechrome&logoColor=white&color=00171f"/>
     </a>
-    <img src="https://profile-counter.glitch.me/Vaibhav007-code/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<!-- Animated Developer Illustration -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
 
-<!-- About Me Section with Holographic Effect -->
+<!-- About Me Section with Modern Design -->
 <div align="center">
     <h2>
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
-        About.exe
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+        <span style="color: #00E6FE; font-weight: bold;">About Me</span>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
     </h2>
 </div>
 
-<!-- Interactive About Section -->
+<!-- Split View with Animation -->
 <div>
-    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-    <br/>
+    <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
     
-    ```javascript
-    const aboutMe = {
-        currentFocus: "Web Development & AI",
-        dailyDrivers: ["JavaScript", "Python", "React"],
-        learning: ["Machine Learning", "Cloud Architecture"],
-        askMeAbout: ["Web Dev", "Tech", "AI", "Coffee ☕"],
-        funFact: "I debug with music 🎧"
-    };
-    ```
+```javascript
+const vaibhav = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "Python", "C++", "React"],
+    askMeAbout: ["web dev", "tech", "ai", "coffee"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "MySQL"],
+        misc: ["Docker", "AWS"]
+    },
+    currentFocus: "Building Digital Solutions",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 </div>
 
 <!-- Tech Stack with Animated Icons -->
 <div align="center">
     <h2>
-        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" />
-        Tech.loadStack()
-        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+        <span style="color: #00E6FE; font-weight: bold;">Languages & Tools</span>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+    </h2>
+
+<!-- Dynamic Tech Stack Animation -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,nodejs,express,mongodb,mysql,aws,docker,git,vscode&theme=dark&perline=6" />
+</div>
+
+<!-- Animated Code GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f36510d5-1231-4b09-8160-9e7c0aa7eef8.gif" width="900">
+
+<!-- GitHub Stats with Custom Design -->
+<div align="center">
+    <h2>
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
+        <span style="color: #00E6FE; font-weight: bold;">GitHub Analytics</span>
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
     </h2>
 </div>
 
-<!-- Animated Tech Icons -->
+<!-- Enhanced Stats Cards -->
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-    <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&border_radius=15&ring_color=00E6FE&title_color=00E6FE&icon_color=00E6FE" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=tokyonight&background=0D1117&hide_border=true&border_radius=15&fire=00E6FE&ring=00E6FE&currStreakLabel=00E6FE" />
 </div>
 
-<!-- GitHub Stats with Neon Effect -->
+<!-- Language Stats with Holographic Effect -->
+<div align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&border_radius=15&title_color=00E6FE" />
+</div>
+
+<!-- Advanced Contribution Graph -->
 <div align="center">
     <h2>
-        <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee475-a8c8-4878-a1b7-544bd144bafe.png" width="40" />
-        GitHub.getStats()
-        <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee475-a8c8-4878-a1b7-544bd144bafe.png" width="40" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f36510d5-1231-4b09-8160-9e7c0aa7eef8.gif" width="40">
+        <span style="color: #00E6FE; font-weight: bold;">Contribution Graph</span>
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f36510d5-1231-4b09-8160-9e7c0aa7eef8.gif" width="40">
     </h2>
 </div>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=cyberpunk&bg_color=0D1117&hide_border=true&border_radius=15&ring_color=00ffff" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=Vaibhav007-code&theme=cyberpunk&hide_border=true&border_radius=15&fire=00ffff&ring=00ffff&background=0D1117" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&custom_title=Vaibhav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00E6FE&line=00E6FE&point=00E6FE&area=true&hide_border=true" />
 </div>
 
-<!-- Language Stats with Hologram Effect -->
-<div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&theme=cyberpunk&bg_color=0D1117&hide_border=true&border_radius=15" />
-</div>
-
-<!-- Contribution Graph with Matrix Effect -->
+<!-- Featured Projects Showcase -->
 <div align="center">
     <h2>
-        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
-        Contribution Matrix
-        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
-    </h2>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&custom_title=Matrix%20Contribution%20Graph&theme=high-contrast&bg_color=0D1117&color=00ffff&line=00ffff&point=00ffff&hide_border=true" />
-</div>
-
-<!-- Projects Showcase with Holographic Cards -->
-<div align="center">
-    <h2>
-        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
-        Featured.showProjects()
-        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
+        <span style="color: #00E6FE; font-weight: bold;">Featured Projects</span>
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
     </h2>
 </div>
 
 <div align="center">
     <a href="https://newport-85s5.onrender.com/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=cyberpunk&bg_color=0D1117&hide_border=true&border_radius=15" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=tokyonight&bg_color=0D1117&hide_border=true&border_radius=15&title_color=00E6FE" />
     </a>
     <a href="https://github.com/Vaibhav007-code">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=cyberpunk&bg_color=0D1117&hide_border=true&border_radius=15" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=tokyonight&bg_color=0D1117&hide_border=true&border_radius=15&title_color=00E6FE" />
     </a>
 </div>
 
@@ -136,15 +147,7 @@
     </picture>
 </div>
 
-<!-- Dynamic Quote Generator -->
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border_color=00ffff" />
-</div>
-
 <!-- Animated Footer -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=24,12,20,18,24&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=00ffff&animation=twinkling&stroke=00ffff&strokeWidth=2" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84F4FF,100:F554F7&height=120&section=footer&text=Let's%20Connect%20and%20Code%20Together!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65">
 </div>
-
-<!-- Hidden Matrix Rain Effect -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="100%" />
