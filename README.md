@@ -1,30 +1,20 @@
-<!-- 🧊 Cyber Glitch Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,20,50,70&height=200&section=header&text=VAI%20BHA%20V&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descSize=20&fontColor=ffffff" />
-</div>
-
-<!-- 🌀 Typing Animation -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space;Crafting+Creative+Web+Experiences;Exploring+AI+Horizons;Let%27s+Collaborate+and+Innovate" alt="Typing SVG" />
-</h2>
-
-<!-- 🧿 Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=flat-square&color=00FFFF" alt="Profile Views" />
-</p>
-
-<!-- 🔧 Dev GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="Coding" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-
-🔭 Currently Working On: Web Development Projects
-🌱 Currently Learning: AI & Advanced Web Technologies
-👯 Collaboration Goals: Innovative Web Projects
-💬 Ask Me About: C++, Python, JavaScript, React
-📫 Portfolio: https://newport-85s5.onrender.com
+VAIBHAV PATHAK
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=EXECUTIVE%20DASHBOARD&fontColor=333&fontSize=60&fontAlignY=50&desc=FOUNDER%20%7C%20INNOVATOR%20%7C%20VISIONARY&descSize=20&descAlignY=75&animation=fadeIn" width="100%"> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=flat-square&color=black&label=PROFILE%20VIEWS" alt="Profile Views"> <img src="https://img.shields.io/github/followers/Vaibhav007-code?style=flat-square&color=black&label=FOLLOWERS" alt="Followers"> </div><div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Digital+Innovator;Strategic+Technologist" alt="Typing SVG"> </div><div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> </div><br>
+EXECUTIVE SUMMARY
+<table> <tr> <td>
+🔭 Currently developing Web Development Projects
+🌱 Advancing expertise in AI & Advanced Web Technologies
+👯 Open to collaborations on Web Development Projects
+💬 Technical expertise in C++, Python, JavaScript, React
+📫 Portfolio: View Portfolio
+</td> </tr> </table><br>
+TECHNOLOGY PORTFOLIO
+<div align="center"> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td align="center" width="20%"><b>C++</b></td> <td align="center" width="20%"><b>Python</b></td> <td align="center" width="20%"><b>JavaScript</b></td> <td align="center" width="20%"><b>React</b></td> <td align="center" width="20%"><b>Node.js</b></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td> </tr> <tr> <td align="center" width="20%"><b>Express</b></td> <td align="center" width="20%"><b>MongoDB</b></td> <td align="center" width="20%"><b>MySQL</b></td> <td align="center" width="20%"><b>Git</b></td> <td align="center" width="20%"><b>Docker</b></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td> </tr> </table> </div><br>
+PERFORMANCE METRICS
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=black&ring=black&fire=black&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=gray" width="49%"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=fff" width="49%"> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&hide_border=true&title_color=000&text_color=000&bg_color=fff" width="49%"> </div><br>
+FEATURED VENTURES
+<div align="center"> <a href="https://newport-85s5.onrender.com/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=fff"> </a> <a href="https://github.com/Vaibhav007-code/note-taking-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=fff"> </a> </div><br>
+CONTRIBUTION ANALYSIS
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&bg_color=ffffff&color=000000&line=000000&point=403d3d&area=true&area_color=E5E5E5&hide_border=true"> </div><br>
+PROFESSIONAL NETWORK
+<div align="center"> <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://newport-85s5.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"> </a> </div><br><div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"> </div>
