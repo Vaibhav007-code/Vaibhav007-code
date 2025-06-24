@@ -1,46 +1,70 @@
+<!-- Stunning Header with Gradient Name -->
 <div align="center">
-  <!-- Replace this with your custom animated name SVG/GIF -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=80&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=120&lines=VAIBHAV+PATHAK" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=900&size=80&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=120&lines=VAIBHAV+PATHAK" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- Elegant Subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;AI+ENTHUSIAST;DIGITAL+INNOVATOR" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&pause=1000&color=6B95FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;AI+ENTHUSIAST;DIGITAL+INNOVATOR" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- Profile Views Counter (Working) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
+</p>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Pinterest-style Image Card -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=flat-square&color=black&label=PROFILE%20VIEWS" alt="Profile Views">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(107, 149, 255, 0.3);">
 </div>
 
-<!-- Pinterest-style image card with shadow and rounded corners -->
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
-</div>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-<!-- Pinterest-style About Me card -->
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 800px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-    <tr>
-      <td style="padding: 30px; text-align: center; background-color: #f9f9f9;">
-        <h2 style="margin: 0; font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 2px;">ABOUT ME</h2>
-        <div style="width: 50px; height: 3px; background-color: #000; margin: 15px auto;"></div>
-        <p align="left" style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 1.8;">
-          • 🔭 I'm currently working on <b>Web Development Projects</b><br>
-          • 🌱 I'm currently learning <b>AI & Advanced Web Technologies</b><br>
-          • 👯 I'm looking to collaborate on <b>Web Development Projects</b><br>
-          • 💬 Ask me about <b>C++, Python, JavaScript, React</b><br>
-          • 📫 Check out my portfolio: <a href="https://newport-85s5.onrender.com/" style="color: #000; text-decoration: none; border-bottom: 1px solid #000;">My Portfolio</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Pinterest-style About Me Card -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> 
+  <span style="color: #FF6B6B; font-family: 'Playfair Display', serif;">ABOUT ME</span>
+</h2>
 
-<!-- Pinterest-style Tech Stack section -->
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <h2 style="font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 2px;">TECHNOLOGY STACK</h2>
-  <div style="width: 50px; height: 3px; background-color: #000; margin: 15px auto 30px;"></div>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px; margin: 0 auto;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 800px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(107, 149, 255, 0.2);">
+  <tr>
+    <td style="padding: 30px; text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
+      <p align="left" style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 1.8;">
+        • 🔭 I'm currently working on <b style="color: #FF6B6B;">Web Development Projects</b><br>
+        • 🌱 I'm currently learning <b style="color: #FF6B6B;">AI & Advanced Web Technologies</b><br>
+        • 👯 I'm looking to collaborate on <b style="color: #FF6B6B;">Web Development Projects</b><br>
+        • 💬 Ask me about <b style="color: #FF6B6B;">C++, Python, JavaScript, React</b><br>
+        • 📫 Check out my portfolio: <a href="https://newport-85s5.onrender.com/" style="color: #6B95FF; text-decoration: none; font-weight: bold;">My Portfolio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Pinterest-style Tech Stack -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
+  <span style="color: #6B95FF; font-family: 'Playfair Display', serif;">TECHNOLOGY STACK</span>
+</h2>
+
+<div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(107, 149, 255, 0.2); max-width: 800px; margin: 0 auto;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -54,60 +78,87 @@
   </div>
 </div>
 
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 <!-- Pinterest-style Stats Cards -->
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <h2 style="font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 2px;">GITHUB ANALYTICS</h2>
-  <div style="width: 50px; height: 3px; background-color: #000; margin: 15px auto 30px;"></div>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=black&ring=black&fire=black&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=gray" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=fff" width="48%">
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&hide_border=true&title_color=000&text_color=000&bg_color=fff" width="48%">
-  </div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> 
+  <span style="color: #FF6B6B; font-family: 'Playfair Display', serif;">GITHUB ANALYTICS</span>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=radical&hide_border=true" width="49%">
 </div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&theme=radical&hide_border=true" width="49%">
+</div>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <!-- Pinterest-style Featured Projects -->
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <h2 style="font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 2px;">FEATURED PROJECTS</h2>
-  <div style="width: 50px; height: 3px; background-color: #000; margin: 15px auto 30px;"></div>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
-    <a href="https://newport-85s5.onrender.com/" style="text-decoration: none; width: 48%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=fff" width="100%">
-    </a>
-    <a href="https://github.com/Vaibhav007-code/note-taking-app" style="text-decoration: none; width: 48%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=fff" width="100%">
-    </a>
-  </div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> 
+  <span style="color: #6B95FF; font-family: 'Playfair Display', serif;">FEATURED PROJECTS</span>
+</h2>
+
+<div align="center">
+  <a href="https://newport-85s5.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=radical&hide_border=true" width="49%">
+  </a>
+  <a href="https://github.com/Vaibhav007-code/note-taking-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=radical&hide_border=true" width="49%">
+  </a>
 </div>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <!-- Pinterest-style Contribution Graph -->
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <h2 style="font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 2px;">CONTRIBUTION GRAPH</h2>
-  <div style="width: 50px; height: 3px; background-color: #000; margin: 15px auto 30px;"></div>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&bg_color=ffffff&color=000000&line=000000&point=403d3d&area=true&area_color=E5E5E5&hide_border=true" width="95%">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> 
+  <span style="color: #FF6B6B; font-family: 'Playfair Display', serif;">CONTRIBUTION GRAPH</span>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&theme=radical&hide_border=true" width="98%">
 </div>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <!-- Pinterest-style Connect Section -->
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <h2 style="font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 2px;">CONNECT WITH ME</h2>
-  <div style="width: 50px; height: 3px; background-color: #000; margin: 15px auto 30px;"></div>
-  
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://newport-85s5.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-    </a>
-  </div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> 
+  <span style="color: #6B95FF; font-family: 'Playfair Display', serif;">CONNECT WITH ME</span>
+</h2>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://newport-85s5.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </div>
 
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 <!-- Pinterest-style Footer with Snake Animation -->
-<div align="center" style="margin-top: 50px;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
