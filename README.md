@@ -1,473 +1,387 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION - Dynamic Glass Morphism Header -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- Stunning Header with Gradient Name -->
 <div align="center">
-  
-```diff
-██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
-██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║
-██║   ██║███████║██║██████╔╝███████║███████║██║   ██║
-╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝
- ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
-  ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  
-                                                        
-@@ PATHAK @@
-```
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=90&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=150&lines=VAIBHAV+PATHAK" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- Elegant Subtitle -->
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+the+Future+with+Code+%26+Innovation" alt="Typing Animation" />
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;AI+ENTHUSIAST;DIGITAL+INNOVATOR;CODE+CRAFTSMAN" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- Stats Banner -->
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=for-the-badge&color=00D9FF&label=VISITORS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vaibhav007-code?style=for-the-badge&color=FF6B9D&labelColor=1a1b27" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Vaibhav007-code?style=for-the-badge&color=ffd700&labelColor=1a1b27" alt="Stars" />
+</p>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- Pinterest-style Image Card -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web3%20%7C%20AI%20%7C%20Cloud-00F5FF?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF87?style=for-the-badge&logo=signal&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav007-code&style=for-the-badge&color=FF00F5&label=PROFILE+VIEWS" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 217, 255, 0.4);">
 </div>
 
-<br/>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- QUICK ACCESS NAVIGATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ⚡ Quick Navigation
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF00F5?style=for-the-badge&logoColor=white)](https://newport-85s5.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-pathak-8b8991214/)
-[![Projects](https://img.shields.io/badge/🚀_PROJECTS-00F5FF?style=for-the-badge&logoColor=white)](#featured-projects)
-[![Contact](https://img.shields.io/badge/📧_CONTACT-00FF87?style=for-the-badge&logoColor=black)](#connect-with-me)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT SECTION - Modern Card Design -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Pinterest-style About Me Card -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
+  <span style="color: #00D9FF;">ABOUT ME</span>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
 <div align="center">
 
-## 🎯 About Me
-
-</div>
-
-```typescript
+```javascript
 const vaibhav = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    currentFocus: ["AI/ML Integration", "Web3 Development", "Cloud Architecture"],
-    
-    workingOn: {
-        primary: "Building scalable web applications with modern tech stacks",
-        learning: ["Advanced System Design", "Blockchain Development", "AI Model Integration"],
-        exploring: ["Microservices Architecture", "GraphQL", "WebAssembly"]
-    },
-    
-    techPhilosophy: "Code is poetry, and every bug is just an unfinished verse",
-    
-    collaboration: {
-        openTo: ["Open Source Projects", "Startup MVPs", "Innovative Web Solutions"],
-        specialties: ["Full Stack Development", "API Design", "Database Optimization"]
-    },
-    
-    funFact: "I debug with console.log() and I'm not ashamed to admit it! 🐛",
-    
-    reachOut: "https://newport-85s5.onrender.com"
+  location: "India 🇮🇳",
+  currentWork: "Web Development Projects 💻",
+  learning: ["AI & Advanced Web Technologies 🤖", "Cloud Architecture ☁️"],
+  collaborateOn: "Web Development Projects 🤝",
+  expertise: ["C++", "Python", "JavaScript", "React", "Node.js"],
+  portfolio: "https://newport-85s5.onrender.com/",
+  funFact: "I turn coffee into code! ☕️➡️💻"
 };
 ```
 
+</div>
+
+<br>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+      <br><strong>Frontend Magic</strong>
+      <br>React • Next.js • Tailwind
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+      <br><strong>Backend Power</strong>
+      <br>Node.js • Express • MongoDB
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+      <br><strong>AI Integration</strong>
+      <br>Machine Learning • NLP
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
 
-### 💭 Current Mission
+### 💼 Quick Links
 
-> *Building products that don't just work, but make people's lives genuinely better*
-
-🔧 **Working on:** Next-gen web applications with AI-powered features  
-🌱 **Growing in:** Distributed systems, AI/ML integration, and Web3  
-💡 **Excited about:** The intersection of AI and web development  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://newport-85s5.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-pathak-8b8991214/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav007-code)
 
 </div>
 
-<br/>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK - Interactive Grid -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🛠️ Technology Arsenal
-
-</div>
+<!-- Pinterest-style Tech Stack -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
+  <span style="color: #FF6B9D;">TECHNOLOGY STACK</span>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
 ### 💻 Languages
 
 <div align="center">
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000">
 </div>
 
 ### 🎨 Frontend Development
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000">
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000">
 </div>
 
 ### 🗄️ Databases & Cloud
 
 <div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000">
 </div>
 
-### 🚀 DevOps & Tools
+### 🛠️ Tools & Technologies
 
 <div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=000000">
 </div>
 
 ### 🤖 AI & Machine Learning
 
 <div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000">
 </div>
 
-<br/>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATISTICS - Enhanced Layout -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Pinterest-style Stats Cards -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+  <span style="color: #00D9FF;">GITHUB ANALYTICS</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
 <div align="center">
-
-## 📊 GitHub Analytics
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=FF6B9D&fire=00D9FF&currStreakLabel=FF6B9D&sideLabels=00D9FF&background=0D1117" width="49%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00D9FF&title_color=FF6B9D&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav007-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav007-code&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B9D&text_color=FFFFFF&bg_color=0D1117&langs_count=10" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=00D9FF&area=true&area_color=00D9FF" width="49%" alt="Contribution Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav007-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00F5&fire=00FF87&currStreakLabel=00F5FF" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F5FF&line=FF00F5&point=00FF87&area_color=00F5FF&area=true&hide_border=true&theme=tokyo-night" width="49%"/>
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav007-code&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Portfolio Website
-[![Portfolio](https://img.shields.io/badge/VIEW_LIVE-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://newport-85s5.onrender.com/)
-
-A modern, interactive portfolio showcasing my work with smooth animations and responsive design.
-
-**Tech Stack:**
-`React` `Three.js` `GSAP` `TailwindCSS`
-
-</td>
-<td width="50%">
-
-### 📝 Smart Note-Taking App
-[![Repo](https://img.shields.io/badge/VIEW_CODE-FF00F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav007-code/note-taking-app)
-
-Intelligent note-taking application with AI-powered organization and search capabilities.
-
-**Tech Stack:**
-`Node.js` `Express` `MongoDB` `React`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI-Powered Chat Application
-[![Status](https://img.shields.io/badge/IN_DEVELOPMENT-00FF87?style=for-the-badge&logo=rocket&logoColor=black)]()
-
-Real-time chat with AI assistant integration for enhanced user experience.
-
-**Tech Stack:**
-`Next.js` `WebSocket` `OpenAI` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 🔗 Blockchain Explorer
-[![Status](https://img.shields.io/badge/COMING_SOON-FFA500?style=for-the-badge&logo=ethereum&logoColor=white)]()
-
-Decentralized application for exploring blockchain transactions and smart contracts.
-
-**Tech Stack:**
-`Web3.js` `Solidity` `React` `Ethers.js`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 📂 More Projects
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Vaibhav007-code?tab=repositories)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CODING ACTIVITY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📈 Coding Activity
-
-</div>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-<details>
-<summary><b>💻 Weekly Development Breakdown</b></summary>
 <br>
 
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░  45.2%
-TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░  29.8%
-Python       4 hrs 22 mins   ████░░░░░░░░░░░░░  15.8%
-CSS/SCSS     1 hr 45 mins    █░░░░░░░░░░░░░░░░   6.3%
-Other        50 mins         █░░░░░░░░░░░░░░░░   2.9%
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav007-code&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies"/>
+</div>
 
-</details>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CODING PROFILES & ACHIEVEMENTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Pinterest-style Featured Projects -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"> 
+  <span style="color: #FF6B9D;">FEATURED PROJECTS</span>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire">
+</h2>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://newport-85s5.onrender.com/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=portfolio&theme=tokyonight&hide_border=true&icon_color=00D9FF&title_color=FF6B9D&text_color=FFFFFF&bg_color=0D1117" alt="Portfolio">
+        </a>
+        <br>
+        <sub><b>🎨 Interactive Portfolio</b></sub>
+        <br>
+        <sub>Modern portfolio with smooth animations</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Vaibhav007-code/note-taking-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav007-code&repo=note-taking-app&theme=tokyonight&hide_border=true&icon_color=00D9FF&title_color=FF6B9D&text_color=FFFFFF&bg_color=0D1117" alt="Note Taking App">
+        </a>
+        <br>
+        <sub><b>📝 Smart Notes App</b></sub>
+        <br>
+        <sub>Feature-rich note-taking application</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🎯 Coding Profiles & Achievements
+<br>
+
+<div align="center">
+  
+[![Explore More Projects](https://img.shields.io/badge/🚀_EXPLORE_MORE_PROJECTS-00D9FF?style=for-the-badge&logoColor=black)](https://github.com/Vaibhav007-code?tab=repositories)
 
 </div>
 
-<div align="center">
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhav007)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vaibhav007)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/vaibhav007)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vaibhav007)
+<!-- Pinterest-style Contribution Graph -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 
+  <span style="color: #00D9FF;">CONTRIBUTION ACTIVITY</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav007-code&custom_title=Vaibhav's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=00D9FF&area_color=00D9FF&title_color=FF6B9D&area=true" width="98%" alt="Activity Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav007-code&theme=tokyonight" alt="Profile Summary" width="98%"/>
 
 </div>
 
-<div align="center">
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-### 🏅 Problem Solving Stats
-
-| Platform | Problems Solved | Rating | Badges |
-|----------|----------------|--------|--------|
-| 🟡 LeetCode | 150+ | 1650+ | ⭐⭐⭐ |
-| 🟤 CodeChef | 100+ | 3⭐ | 🏆 |
-| 🟢 HackerRank | 200+ | Gold Badge | 🥇 |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- BLOG & CONTENT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Pinterest-style Connect Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" alt="Handshake"> 
+  <span style="color: #FF6B9D;">CONNECT WITH ME</span>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" alt="Handshake">
+</h2>
 
 <div align="center">
 
-## 📝 Latest Blog Posts
+### Let's Build Something Amazing Together! 🚀
 
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://newport-85s5.onrender.com/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80" alt="Portfolio"/>
+        <br><b>Portfolio</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/vaibhav-pathak-8b8991214/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80" alt="LinkedIn"/>
+        <br><b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Vaibhav007-code" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80" alt="GitHub"/>
+        <br><b>GitHub</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:your.email@example.com" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="80" alt="Email"/>
+        <br><b>Email</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<br>
 
-<!-- BLOG-POST-LIST:START -->
-🔹 [Building Scalable Microservices with Node.js](#)  
-🔹 [Understanding React Server Components](#)  
-🔹 [Database Optimization Techniques for Production](#)  
-🔹 [AI Integration in Modern Web Apps](#)  
-<!-- BLOG-POST-LIST:END -->
-
-[![View All Posts](https://img.shields.io/badge/View_All_Posts-FF00F5?style=for-the-badge&logo=hashnode&logoColor=white)](https://newport-85s5.onrender.com/blog)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF00F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://newport-85s5.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-pathak-8b8991214/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhav007)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaibhav.pathak)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.pathak@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://newport-85s5.onrender.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
+<br>
+
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+### 💬 Open for Collaborations!
 
-> Open to collaborating on innovative projects and contributing to open source.  
-> Feel free to reach out for project discussions or just a friendly chat about tech!
+> *"The best way to predict the future is to create it."*
+
+Feel free to reach out for:
+- 🤝 Collaborative Projects
+- 💼 Freelance Opportunities  
+- 🎓 Knowledge Sharing
+- ☕ Just a friendly chat about tech!
 
 </div>
 
-<br/>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SUPPORT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ☕ Support My Work
-
-</div>
+<!-- Support Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Support"> 
+  <span style="color: #00D9FF;">SUPPORT MY WORK</span>
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Support">
+</h2>
 
 <div align="center">
 
-If you find my projects helpful or interesting, consider supporting me:
+If you find my work helpful, consider supporting me:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vaibhav007)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vaibhav007)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Vaibhav007-code)
+[![Sponsor](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Vaibhav007-code)
 
 </div>
 
-<br/>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Snake Animation Footer -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
+  <span style="color: #FF6B9D;">GITHUB CONTRIBUTION SNAKE</span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
+</h2>
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav007-code/Vaibhav007-code/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav007-code/Vaibhav007-code/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav007-code/Vaibhav007-code/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav007-code/Vaibhav007-code/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav007-code/Vaibhav007-code/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
-<br/>
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
+<!-- Fun Section -->
 <div align="center">
 
 ### ⚡ Fun Fact
@@ -481,32 +395,46 @@ while(alive) {
 }
 ```
 
+### 🎯 Current Goals for 2024
+
+- [ ] Contribute to 10+ open source projects
+- [ ] Build 5 production-ready applications  
+- [ ] Master system design and architecture
+- [ ] Learn Web3 and blockchain development
+- [ ] Share knowledge through tech blogs
+
 </div>
 
-<br/>
+<br>
 
+<!-- Quote -->
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&border=true" alt="Quote" width="60%"/>
+</div>
 
+<br>
+
+<!-- Metrics -->
+<div align="center">
+  
+### 📈 Metrics & Insights
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Vaibhav007-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=00D9FF&layout=compact)
+
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
+
+<!-- Footer Credits -->
+<div align="center">
+  
 ---
 
-### 📌 Profile Highlights
+<sub>Made with ❤️ by Vaibhav Pathak | Last Updated: 2024</sub>
 
-![](https://hit.yhype.me/github/profile?user_id=Vaibhav007-code)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
-
-<div align="center">
-
-### 💫 *"First, solve the problem. Then, write the code."* – John Johnson
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- © 2024 Vaibhav Pathak - Built with 💙 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
